@@ -53,7 +53,7 @@ The dataset was cleaned using the following steps:
   - Seaborn  
 - SQL (PostgreSQL)  
 - Jupyter Notebook  
-- Excel (optional preprocessing)  
+- Excel 
 
 ---
 
