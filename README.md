@@ -99,20 +99,6 @@ Highly rated restaurants generally receive more votes, indicating popularity but
 
 ---
 
-## 📁 Project Structure
-
-Zomato-Restaurant-Analysis/
-│
-├── data/ # Dataset (CSV file)
-├── sql/ # SQL scripts
-├── notebooks/ # Jupyter Notebook (EDA)
-├── images/ # Visualizations (charts)
-├── reports/ # Final PDF report
-└── README.md
-
-
----
-
 ## 📈 Sample Visualizations
 This project includes:
 
